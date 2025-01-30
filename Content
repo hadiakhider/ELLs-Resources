@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ELL Learning Resources for Families</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        section {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #4CAF50;
+            color: white;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to ELL Learning Resources for Families</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Introduction</h2>
+            <p>
+                This website provides learning resources for students and their families to support English Language Learners (ELLs) in **English Language Arts, Math, Science, and Social Studies**.
+                Follow these steps to access the resources:
+            </p>
+            <ol>
+                <li>Browse the sections below for your subject of interest.</li>
+                <li>Click on the provided links to access **practice activities** or **interactive websites**.</li>
+                <li>Download and print the worksheets to practice offline.</li>
+            </ol>
+        </section>
+        
+        <section>
+            <h2>📚 English Language Arts (ELA) Resources</h2>
+            <h3>Practice Activities:</h3>
+            <ul>
+                <li><a href="https://www.k12reader.com/reading-worksheets-by-main-subject/" target="_blank">Reading Fluency Worksheets</a></li>
+                <li><a href="https://www.superteacherworksheets.com/reading-comp.html" target="_blank">Reading Comprehension Worksheets</a></li>
+            </ul>
+            <h3>Interactive Resources:</h3>
+            <ul>
+                <li><a href="https://storylineonline.net/" target="_blank">Storyline Online</a> – Read-aloud books</li>
+                <li><a href="https://pbskids.org/games/reading/" target="_blank">PBS Kids Reading Games</a></li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>➕ Math Resources</h2>
+            <h3>Practice Activities:</h3>
+            <ul>
+                <li><a href="https://www.superteacherworksheets.com/full-math.html" target="_blank">Printable Math Worksheets</a></li>
+                <li><a href="https://www.math-drills.com/" target="_blank">Math Drills Worksheets</a></li>
+            </ul>
+            <h3>Interactive Resources:</h3>
+            <ul>
+                <li><a href="https://www.mathgames.com/" target="_blank">Math Games</a></li>
+                <li><a href="https://www.ixl.com/math/" target="_blank">IXL Math</a></li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>🔬 Science Resources</h2>
+            <h3>Practice Activities:</h3>
+            <ul>
+                <li><a href="https://www.science-sparks.com/science-worksheets/" target="_blank">Science Sparks Worksheets</a></li>
+                <li><a href="https://easyscienceforkids.com/" target="_blank">Easy Science for Kids Worksheets</a></li>
+            </ul>
+            <h3>Interactive Resources:</h3>
+            <ul>
+                <li><a href="https://www.sciencekids.co.nz/" target="_blank">Science Kids</a></li>
+                <li><a href="https://kids.nationalgeographic.com/" target="_blank">National Geographic Kids</a></li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>🌍 Social Studies & History Resources</h2>
+            <h3>Practice Activities:</h3>
+            <ul>
+                <li><a href="https://freedomhomeschooling.com/socialstudies/" target="_blank">Freedom Homeschooling Social Studies</a></li>
+                <li><a href="https://www.education.com/worksheets/social-studies/" target="_blank">Social Studies Worksheets</a></li>
+            </ul>
+            <h3>Interactive Resources:</h3>
+            <ul>
+                <li><a href="https://k12irc.org/topics/more-history-social-studies-websites/" target="_blank">K12 IRC History Resources</a></li>
+                <li><a href="https://www.ducksters.com/history/" target="_blank">Ducksters History Games</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 ELL Learning Resources | Sources: Russell & Von Esch, 2018; Naidoo, 2014; Faltis & Coulter, 2018.</p>
+    </footer>
+</body>
+</html>
